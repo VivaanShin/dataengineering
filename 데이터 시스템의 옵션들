@@ -1,0 +1,11 @@
+# Spark
+- Hadoop의 진화된 버전으로 빅데이터 분석 환경에서 Real Time 데이터를 프로세싱하기에 더 최적화
+- Java, Python, Scala를 통한 API를 제공하여 애플리케이션 생성
+- SQL Query 환경을 서포트하여 분석가들에게 더 각광
+
+# 서버리스 프레임워크
+- Triggered by http requests, database events, queuing services
+- Pay as you use
+- Form of functions
+- 3rd Party 앱들 및 다양한 API를 통해 데이터를 수집 정제하는데 유용
+
